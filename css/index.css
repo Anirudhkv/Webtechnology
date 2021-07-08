@@ -1,0 +1,35 @@
+.bodystyle{
+
+    background-image: linear-gradient(to left, rgb(104, 94, 150), #1e053a);
+    color: #d8e6e6;
+  
+}
+.ullist{
+
+padding-left: 10px;
+
+}
+.nav-item{
+
+padding-left: 10px;
+
+}
+.roundimage{
+    border-radius: 100px;
+    height: 220px;
+    width: 220px;
+
+   
+}
+.imgpos{
+
+    padding-left:650px;
+    padding-top:120px;
+
+}
+.text{
+ 
+ padding-left: 640px;
+ opacity: .7;
+    
+}

@@ -1,0 +1,67 @@
+.bodystyle{
+
+    background-image: linear-gradient(to left, rgb(104, 94, 150), #1e053a);
+    color: #d8e6e6;
+  
+}
+.ullist{
+
+padding-left: 10px;
+
+}
+.nav-item{
+
+padding-left: 10px;
+
+}
+.row{
+
+    align-items: flex-start;
+    padding-top: 30px;
+}   
+.container{
+    padding-left:20px;
+    margin-left: 15px;
+    position: absolute;
+    }
+.formcon{
+
+padding-top: 100px;
+padding-bottom: 50px;
+position: absolute;
+
+  }  
+.roundimage{
+    border-radius: 100px;
+    height:200px;
+    width: 200px;
+ }
+ .imgcon{
+padding-left: 500px;
+
+ }
+ .icons{
+padding-top:40px;
+padding-left:60px;
+
+
+ }
+ i{
+     padding-left: 12px;
+ }
+ .card-title{
+
+    color:black
+    
+    }
+    .card-body{
+    
+        color:black;
+        background-color: #bcbcd4;
+    }
+    .cardalign{
+        padding-left: 300px;
+        padding-top: 30px;
+    }
+   
+   

@@ -1,0 +1,36 @@
+.bodystyle{
+
+    background-image: linear-gradient(to left, rgb(104, 94, 150), #1e053a);
+    color: #d8e6e6;
+  
+}
+.ullist{
+
+    padding-left: 10px;
+    
+    }
+    
+.nav-item{
+    
+    padding-left: 10px;
+    
+    }
+
+.row{
+
+    align-items: flex-start;
+    padding-top: 20px;
+}    
+tr,th,td{
+
+border: 1px solid white;
+padding-left: 20px;
+padding-top:10px
+
+
+}
+.container{
+padding-left:20px;
+margin-left: 15px;
+position: absolute;
+}
